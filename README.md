@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Vicente
 #### Software developer
-![Software developer](https://octodex.github.com/images/manufacturetocat.png)
-
         public static void Vicentc0de()
         {
             string[] code = { "Java", "Javascript", "Typescript", "PHP", "HTML", "Python", "C# <3", "Dart", "GO"};
