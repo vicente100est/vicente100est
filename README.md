@@ -23,9 +23,3 @@ Skills: WEB AND MOBILE DEVELOPMENT
 </div
   
 <br/>
-
----
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
- 
----
