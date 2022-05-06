@@ -2,9 +2,17 @@
 #### Software developer
         public static void Vicentc0de()
         {
-            string[] code = { "Java", "Javascript", "Typescript", "PHP", "HTML", "Python", "C# <3", "Dart", "GO"};
-            string[] tools = { "Angular", "Ionic", "Flutter", ".NET", "Xamarin", "Blazor", "Flask", "Node", "Django",
-                "MySQL", "Mongo", "MariaDB", "GitHub", "AWS", "Azure"};
+            string[] code = { "Java", "Javascript", "PHP", "Python", "C# <3", "C++"};
+            
+            string[] Tools_Libraries_Frameworks = { "HTML". "CSS", "Bootstrap", "TypeScript",
+                "jQuery", "Node Js", "Next Js", "Angular", "Ionic Framework", "React",
+                "React Native", ".NET", "Laravel", "Spring Boot", "Hibernate", "Flask", "Docker"};
+                
+            string[] Database = { "SQL", "NoSQL" };
+            
+            string[] Operating_systems = { "Linux", "Windows", "OSx" };
+            string[] Version_controller = { "GitHub", "Bitbucket" };
+            string[] Cloud = { "AWS", "Azure" };
         }
 
 Skills: WEB AND MOBILE DEVELOPMENT
