@@ -11,7 +11,9 @@
             string[] Database = { "SQL", "NoSQL" };
             
             string[] Operating_systems = { "Linux", "Windows", "OSx" };
+            
             string[] Version_controller = { "GitHub", "Bitbucket" };
+            
             string[] Cloud = { "AWS", "Azure" };
         }
 
