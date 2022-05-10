@@ -17,7 +17,7 @@
             string[] Cloud = { "AWS", "Azure" };
         }
 
-Skills: WEB AND MOBILE DEVELOPMENT
+Skills: BACKEND
 
 <br/>
 
