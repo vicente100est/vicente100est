@@ -17,7 +17,7 @@
             string[] Cloud = { "AWS", "Azure" };
         }
 
-Skills: BACKEND
+Skills: Backend
 
 <br/>
 
