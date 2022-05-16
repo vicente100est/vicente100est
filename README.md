@@ -16,6 +16,21 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/VicentC0de"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VicentC0de" /></a></p><br><br>
 
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicente100est&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicente100est&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+  
+<br/>
+
 
         public static void Vicentc0de()
         {
@@ -35,17 +50,3 @@
         }
 
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vicente100est&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicente100est&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
