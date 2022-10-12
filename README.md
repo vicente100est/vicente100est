@@ -30,23 +30,3 @@
 </div
   
 <br/>
-
-
-        public static void Vicentc0de()
-        {
-            string[] code = { "Java", "Javascript", "PHP", "Python", "C# <3", "C++"};
-            
-            string[] Tools_Libraries_Frameworks = { "HTML". "CSS", "Bootstrap", "TypeScript",
-                "jQuery", "Node Js", "Next Js", "Angular", "Ionic Framework", "React",
-                "React Native", ".NET", "Laravel", "Spring Boot", "Hibernate", "Flask", "Docker"};
-                
-            string[] Database = { "SQL", "NoSQL" };
-            
-            string[] Operating_systems = { "Linux", "Windows", "OSx" };
-            
-            string[] Version_controller = { "GitHub", "Bitbucket" };
-            
-            string[] Cloud = { "AWS", "Azure" };
-        }
-
-
