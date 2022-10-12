@@ -18,5 +18,5 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> Github Statistics 📈 </h2>
+![Github stats](https://github-readme-stats.vercel.app/api?username=vicente100est)
