@@ -19,5 +19,4 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente100est&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
