@@ -16,3 +16,4 @@
 <p><a href="https://www.buymeacoffee.com/VicentC0de"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VicentC0de" /></a></p><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicente100est&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente100est&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
